@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://otolaidi.github.io/Ojs/sitemap_index.txt
+Sitemap: https://otolaidi.github.io/TVQ/sitemap_index.txt
+Sitemap: https://otolaidi.github.io/bci/sitemap_index.txt
+Sitemap: https://otolaidi.github.io/yvg/sitemap_index.txt
